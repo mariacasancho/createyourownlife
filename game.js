@@ -94,7 +94,7 @@ var game = function(document){
    
 
    var introduction = function (){
-       var introText = "Welcome to create your own adventure, we will guide you through one life, one life that you will choose... \n your life";
+       var introText = "Welcome to create your own adventure, we will guide you through one life, one only life that you will choose... \n your life";
 
         showText(document.getElementById('text'), introText, 0, 50);
        console.log("paco");
